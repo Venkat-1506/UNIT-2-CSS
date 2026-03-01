@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+/* Keyframes */
+@keyframes moveBox {
+    0% {
+        left: 0;
+        background-color: steelblue;
+    }
+
+    50% {
+        left: 250px;
+        background-color: coral;
+    }
+
+    100% {
+        left: 0;
+        background-color: steelblue;
+    }
+}
+
+/* Animated Box */
+.animate-box {
+    width: 150px;
+    height: 80px;
+    line-height: 80px;
+    color: white;
+    position: relative;
+    background-color: steelblue;
+
+    animation-name: moveBox;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}

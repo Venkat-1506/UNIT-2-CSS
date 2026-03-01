@@ -1,0 +1,31 @@
+/* Font Family */
+.font-family {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Font Size */
+.font-size {
+    font-size: 22px;
+}
+
+/* Font Weight */
+.font-weight {
+    font-weight: bold;
+}
+
+/* Font Style */
+.font-style {
+    font-style: italic;
+}
+
+/* Text Align */
+.text-align {
+    text-align: center;
+    color: blue;
+}
+
+/* Line Height */
+.line-height {
+    line-height: 1.8;
+    width: 60%;
+}

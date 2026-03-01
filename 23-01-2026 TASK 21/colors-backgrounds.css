@@ -1,0 +1,24 @@
+/* Named Color */
+.named-color {
+    color: blue;
+}
+
+/* HEX Color */
+.hex-color {
+    color: #ff5733;
+}
+
+/* RGB Color */
+.rgb-color {
+    color: rgb(0, 128, 0);
+}
+
+/* Background Example */
+.background-box {
+    background-color: lightgray;
+    background-image: linear-gradient(to right, skyblue, lightgreen);
+    padding: 20px;
+    margin-top: 20px;
+    text-align: center;
+    font-weight: bold;
+}

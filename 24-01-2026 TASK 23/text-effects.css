@@ -1,0 +1,26 @@
+/* Google Font */
+.google-font {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+/* Text Decoration */
+.underline {
+    text-decoration: underline;
+}
+
+/* Text Transform */
+.uppercase {
+    text-transform: uppercase;
+}
+
+/* Letter Spacing */
+.spacing {
+    letter-spacing: 4px;
+}
+
+/* Text Shadow */
+.shadow {
+    font-size: 22px;
+    text-shadow: 2px 2px 5px gray;
+}

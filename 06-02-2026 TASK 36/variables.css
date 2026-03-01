@@ -1,0 +1,29 @@
+/* Define Variables */
+:root {
+    --primary-color: steelblue;
+    --secondary-color: coral;
+    --text-color: white;
+    --padding-size: 15px;
+}
+
+/* Using Variables */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.card {
+    background-color: var(--primary-color);
+    color: var(--text-color);
+    padding: var(--padding-size);
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.btn {
+    background-color: var(--secondary-color);
+    color: var(--text-color);
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}

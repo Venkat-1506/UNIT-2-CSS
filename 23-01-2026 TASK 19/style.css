@@ -1,0 +1,23 @@
+/* Element Selector */
+p {
+    color: blue;
+    font-size: 18px;
+}
+
+/* Class Selector */
+.highlight {
+    color: green;
+    font-weight: bold;
+}
+
+/* ID Selector */
+#special {
+    color: red;
+    font-style: italic;
+}
+
+/* Group Selector */
+h1, h2 {
+    text-align: center;
+    color: purple;
+}

@@ -1,0 +1,38 @@
+body {
+    font-size: 16px;
+}
+
+/* px */
+.px-box {
+    width: 200px;
+    background-color: lightblue;
+    margin: 10px;
+    padding: 10px;
+}
+
+/* % */
+.percent-box {
+    width: 50%;
+    background-color: lightgreen;
+    margin: 10px;
+    padding: 10px;
+}
+
+/* em */
+.em-text {
+    font-size: 2em;
+    color: blue;
+}
+
+/* rem */
+.rem-text {
+    font-size: 2rem;
+    color: red;
+}
+
+/* vh */
+.vh-box {
+    height: 20vh;
+    background-color: coral;
+    margin-top: 20px;
+}

@@ -1,0 +1,30 @@
+/* Universal Selector */
+* {
+    font-family: Arial, sans-serif;
+}
+
+/* Descendant Selector */
+.container p {
+    color: blue;
+}
+
+/* Child Selector */
+.container > p {
+    font-weight: bold;
+}
+
+/* Adjacent Sibling Selector */
+h2 + p {
+    color: red;
+}
+
+/* Attribute Selector */
+input[type="text"] {
+    border: 2px solid green;
+    padding: 5px;
+}
+
+input[type="password"] {
+    border: 2px solid orange;
+    padding: 5px;
+}
