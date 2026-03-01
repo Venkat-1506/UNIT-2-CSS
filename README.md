@@ -47,7 +47,3 @@ Each folder represents a lab session conducted on a specific date.
 - Animations
 
 ---
-
-## 👨‍💻 Author
-Venkat  
-B.E CSE Student
